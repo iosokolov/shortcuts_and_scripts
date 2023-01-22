@@ -1,0 +1,6 @@
+alias aram="alembic revision --autogenerate -m"
+alias ara="alembic revision --autogenerate"
+alias amh="alembic merge heads"
+alias amhm="alembic merge heads -m"
+alias auh="alembic upgrade heads"
+alias ad="alembic downgrade"
