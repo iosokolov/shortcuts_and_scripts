@@ -1,2 +1,1 @@
-# shortcuts_and_scripts
-shortcuts and scripts
+# Shortcuts And Scripts
